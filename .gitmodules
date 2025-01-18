@@ -1,0 +1,3 @@
+[submodule "next-app"]
+	path = next-app
+	url = https://github.com/ngchinhdev/ci-cd-next-app.git
