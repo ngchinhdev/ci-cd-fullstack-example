@@ -1,3 +1,6 @@
 [submodule "next-app"]
 	path = next-app
 	url = https://github.com/ngchinhdev/ci-cd-next-app.git
+[submodule "nest-app"]
+	path = nest-app
+	url = https://github.com/ngchinhdev/ci-cd-nest-app.git
